@@ -1,3 +1,15 @@
+/* navigation bar styles */
 .nav-icon{
     width: 10px;
+}
+
+/* banner styles */
+.banner-container{
+    background: url('../images/banner.png'),url('../images/rectangle5.png');
+    background-blend-mode: multiply;
+    /* background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c); */
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
 }
