@@ -47,3 +47,13 @@
 .client-img{
     width: 200px;
 }
+
+/* footer styles  */
+footer a, a:hover{
+    color: white;
+    text-decoration: none !important;
+}
+
+.btn-icon{
+    width: 20px;
+}
